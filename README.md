@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 here is a overview of my OSS.
 
 <!--
 **killswitch-GUI/killswitch-GUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,10 +20,10 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=killswitch-gui&hide_border=true&theme=radical" />
 </p>
 
-### Offensive Security Research & Tools
+### ⚡ Offensive Security Research & Tools
 Over the years I have worked on various projects ranging from small research projects to team based projects to in support of OSS. The following spans over 10 years of OSS development, training, and research. Most of the code is research for other operational projects for red teaming, pentesting and IR.
 
-#### Confrence Talks & Research
+#### 💬 Confrence Talks & Research
 
 * [RAT - Repurposing Adversarial Tradecraft](https://www.slideshare.net/AlexanderRymdekoHarv/rat-repurposing-adversarial-tradecraft) - [Video](https://www.youtube.com/watch?v=v2jU8EsJMVc)
 * [Malvertizing Like a Pro](https://www.slideshare.net/AlexanderRymdekoHarv/malvertizing-like-a-pro-65910846) - [Video](https://www.youtube.com/watch?v=boDRePkLo2g)
@@ -86,7 +86,7 @@ Over the years I have worked on various projects ranging from small research pro
 * [Fuzz-FFmpeg](https://github.com/killswitch-GUI/Fuzz-FFmpeg) - Docker container to support AFL (afl-multicore) to Fuzz FFmpeg in a contained enviroment.
 
 
-##### Research
+##### 🔭 Research
 
 * [IsDebuggerPresent](https://github.com/killswitch-GUI/IsDebuggerPresent) - Comparing three excellent debugger check TTPs for necessary sandbox and anti-reversing techniques and their detection ratios. With interest in the ability to alert on IR actions and potentially beacon out with maybe a magic packet or some other TTP to ID that we have been burnt.
 * [C-OSX-Shellcode](https://github.com/killswitch-GUI/C-OSX-Shellcode) - Used to learn X86_x64 shellcode generation using ASM and compiled C code on OSX.
