@@ -31,6 +31,12 @@ Over the years I have worked on various projects ranging from small research pro
 * [External to DA, the OS X Way](https://www.slideshare.net/StephanBorosh/hackmiamifinal)
 * [Building an EmPyre with Python](https://www.youtube.com/watch?v=79qzgVTP3Yc) - [Video](http://www.securitytube.net/video/16668?utm_source=HT&utm_medium=gplus&utm_campaign=SM)
 
+##### OSINT
+
+* [SimplyEmail](https://github.com/SimplySecurity/SimplyEmail) - OSINT collection tool with various modules to extract emails for targeted phishing.
+* [SimplyTemplate](https://github.com/SimplySecurity/SimplyTemplate) - Phishing Template Generation for large scale phishing.
+* [simplydomain](https://github.com/SimplySecurity/simplydomain) - SimplyDomain uses a framework approach to build and deploy modules within. This allows for fast, easy and concise output to feed into larger OSINT feeds of subdomain collection.
+
 ##### Agents
 
 * [DeepFreeze-Agent](https://github.com/killswitch-GUI/DeepFreeze-Agent) - Custom C++ agent to learn various Windows C APIs and WMI process, service, driver monitoring supporting dynamic rule creation. See confrence talk https://www.slideshare.net/AlexanderRymdekoHarv/rat-repurposing-adversarial-tradecraft
@@ -81,6 +87,7 @@ Over the years I have worked on various projects ranging from small research pro
 
 
 ##### Research
+
 * [IsDebuggerPresent](https://github.com/killswitch-GUI/IsDebuggerPresent) - Comparing three excellent debugger check TTPs for necessary sandbox and anti-reversing techniques and their detection ratios. With interest in the ability to alert on IR actions and potentially beacon out with maybe a magic packet or some other TTP to ID that we have been burnt.
 * [C-OSX-Shellcode](https://github.com/killswitch-GUI/C-OSX-Shellcode) - Used to learn X86_x64 shellcode generation using ASM and compiled C code on OSX.
 * [Domain-WIFILocate](https://github.com/killswitch-GUI/Domain-WIFILocated)
