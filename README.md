@@ -21,13 +21,22 @@ Here are some ideas to get you started:
 </p>
 
 ### Offensive Security Research & Tools
-Over the years I have worked on various projects ranging from small research projects to team based projects to in support of OSS. The following spans over 10 years of OSS development, training, and research. Most of the code is research for other operational projects for red teaming, pentesting and IR. 
+Over the years I have worked on various projects ranging from small research projects to team based projects to in support of OSS. The following spans over 10 years of OSS development, training, and research. Most of the code is research for other operational projects for red teaming, pentesting and IR.
+
+#### Confrence Talks & Research
+
+* [RAT - Repurposing Adversarial Tradecraft](https://www.slideshare.net/AlexanderRymdekoHarv/rat-repurposing-adversarial-tradecraft) - [Video](https://www.youtube.com/watch?v=v2jU8EsJMVc)
+* [Malvertizing Like a Pro](https://www.slideshare.net/AlexanderRymdekoHarv/malvertizing-like-a-pro-65910846) - [Video](https://www.youtube.com/watch?v=boDRePkLo2g)
+* [THE {PHISHING} {PATH} TO {INFO} WE MISSED](https://www.slideshare.net/AlexanderRymdekoHarv/the-phishing-path-to-info-we-missed)
+* [External to DA, the OS X Way](https://www.slideshare.net/StephanBorosh/hackmiamifinal)
+* [Building an EmPyre with Python](https://www.youtube.com/watch?v=79qzgVTP3Yc) - [Video](http://www.securitytube.net/video/16668?utm_source=HT&utm_medium=gplus&utm_campaign=SM)
 
 ##### Agents
 
-* [DeepFreeze-Agent](https://github.com/killswitch-GUI/DeepFreeze-Agent) - Custom C++ agent to test var 
-* [EmPyre](https://github.com/EmpireProject/EmPyre) - 
-* [Empire](https://github.com/EmpireProject/Empire) - 
+* [DeepFreeze-Agent](https://github.com/killswitch-GUI/DeepFreeze-Agent) - Custom C++ agent to learn various Windows C APIs and WMI process, service, driver monitoring supporting dynamic rule creation. See confrence talk https://www.slideshare.net/AlexanderRymdekoHarv/rat-repurposing-adversarial-tradecraft
+* [EmPyre](https://github.com/EmpireProject/EmPyre) - Core contributor on a team to develop EmPyre is a pure Python post-exploitation agent for OSX that was used on various Red Team engamgents as limited OSS agents existed.
+* [Empire](https://github.com/EmpireProject/Empire) - Core contributor on a team to support and develop on Empire after the python agent was merged into the Empire branch for cross platform operations.
+
 
 ##### Infrastructure
 
@@ -72,7 +81,7 @@ Over the years I have worked on various projects ranging from small research pro
 
 
 ##### Research
-* IsDebuggerPresent - https://github.com/killswitch-GUI/IsDebuggerPresent
-* C-OSX-Shellcode - https://github.com/killswitch-GUI/C-OSX-Shellcode
-* Domain-WIFILocate - https://github.com/killswitch-GUI/Domain-WIFILocate
+* [IsDebuggerPresent](https://github.com/killswitch-GUI/IsDebuggerPresent) - Comparing three excellent debugger check TTPs for necessary sandbox and anti-reversing techniques and their detection ratios. With interest in the ability to alert on IR actions and potentially beacon out with maybe a magic packet or some other TTP to ID that we have been burnt.
+* [C-OSX-Shellcode](https://github.com/killswitch-GUI/C-OSX-Shellcode) - Used to learn X86_x64 shellcode generation using ASM and compiled C code on OSX.
+* [Domain-WIFILocate](https://github.com/killswitch-GUI/Domain-WIFILocated)
 
