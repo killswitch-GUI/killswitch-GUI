@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=killswitch-gui&show_icons=true&&count_private=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=killswitch-gui&hide_border=true&theme=radical" />
+</p>
+
 ### Offensive Security
 
 ##### Infrastructure
@@ -71,8 +76,3 @@ Here are some ideas to get you started:
 * C-OSX-Shellcode - https://github.com/killswitch-GUI/C-OSX-Shellcode
 * Domain-WIFILocate - https://github.com/killswitch-GUI/Domain-WIFILocate
 
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=killswitch-gui&show_icons=true&&count_private=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=killswitch-gui&hide_border=true&theme=radical" />
-</p>
