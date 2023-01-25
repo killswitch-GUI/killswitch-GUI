@@ -20,7 +20,14 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=killswitch-gui&hide_border=true&theme=radical" />
 </p>
 
-### Offensive Security
+### Offensive Security Research & Tools
+Over the years I have worked on various projects ranging from small research projects to team based projects to in support of OSS. The following spans over 10 years of OSS development, training, and research. Most of the code is research for other operational projects for red teaming, pentesting and IR. 
+
+##### Agents
+
+* [DeepFreeze-Agent](https://github.com/killswitch-GUI/DeepFreeze-Agent) - Custom C++ agent to test var 
+* [EmPyre](https://github.com/EmpireProject/EmPyre) - 
+* [Empire](https://github.com/EmpireProject/Empire) - 
 
 ##### Infrastructure
 
@@ -57,13 +64,6 @@ Here are some ideas to get you started:
 
 * [Persistence-Survivability](https://github.com/killswitch-GUI/Persistence-Survivability) - Research based of Duqu style persistence as a TTP to locate high uptime hosts within a network and calculate an Persistence Survivability Rating (PSR).
 * [Invoke-InstallPsGPOPersistence](https://gist.github.com/killswitch-GUI/28f7af7c29b4de3cc3456ad48a1cacbe) - Invoke-InstallPsGPOPersistence provides the install of PS or Scripts persistence using reg keys and the proper .ini file to insert into GPO startup.
-
-
-##### Agents
-
-* [DeepFreeze-Agent](https://github.com/killswitch-GUI/DeepFreeze-Agent) -
-* [EmPyre](https://github.com/EmpireProject/EmPyre) - 
-* [Empire](https://github.com/EmpireProject/Empire) - 
 
 
 ##### Fuzzing
